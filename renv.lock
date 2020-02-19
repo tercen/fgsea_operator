@@ -166,15 +166,9 @@
     },
     "fgsea": {
       "Package": "fgsea",
-      "Version": "1.13.3",
+      "Version": "1.8.0",
       "Source": "Bioconductor",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "fgsea",
-      "RemoteUsername": "ctlab",
-      "RemoteRef": "master",
-      "RemoteSha": "918fdade1207ad1bc62d262f4278b5181d1aedcd",
-      "Hash": "c1f8bd63db5407510f04af322ec2e498"
+      "Hash": "72319bdb5a17f4e734d6564ffb20ff14"
     },
     "formatR": {
       "Package": "formatR",
