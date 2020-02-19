@@ -49,11 +49,3 @@ result %>%
   ctx$addNamespace() %>%
   ctx$save()
 
-
-
-(ctx = tercenCtx())  %>% 
-  select(.y, .ci, .ri) %>% 
-  group_by(.ci, .ri) %>%
-  summarise(median = median(.y)) %>%
-  ctx$addNamespace() %>%
-  ctx$save()
