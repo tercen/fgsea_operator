@@ -1,0 +1,10 @@
+{
+  "name": "fgsea",
+  "description": "Perform fast gene set enrichment analysis",
+  "tags": ["enrichment"],
+  "authors": ["tercen"],
+  "urls": ["https://github.com/tercen/fsgea_operator"],
+  "properties": []
+}
+
+
